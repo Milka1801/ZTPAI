@@ -9,7 +9,6 @@ services:
       - '5432'
 
   pgadmin:
-
     image: 'dpage/pgadmin4:latest'
     environment:
       PGADMIN_DEFAULT_EMAIL: admin@localhost.com

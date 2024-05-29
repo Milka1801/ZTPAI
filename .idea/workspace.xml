@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe8e34c8-8aca-4068-b06f-2cc73da5bfbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/config/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/config/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/config/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/controllers/AuthenticateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/controllers/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/controllers/AuthenticationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/controllers/ExchangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/controllers/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/controllers/SearchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/controllers/SkillController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/demo/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/entity/SearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/entity/Skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/service/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ZTPAI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/borrowbuddy/skills/SkillsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/java/com/example/borrowbuddy/BorrowbuddyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/borrowbuddy/skills/controllers/ExchangeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/borrowbuddy/skills/controllers/SearchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/borrowbuddy/skills/controllers/SkillController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/borrowbuddy/skills/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/borrowbuddy/skills/entity/SearchService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/borrowbuddy/skills/entity/Skill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/borrowbuddy/skills/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/borrowbuddy/skills/SkillsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/borrowbuddy/src/test/java/com/example/borrowbuddy/BorrowbuddyApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/com/borrowbuddy/skills/SkillsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Categories/Categories.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Explorer/Explorer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Explorer/Explorer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Navbar/Navbar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Navbar/Navbar_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Navbar/SidebarData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Register/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Register/Register.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/SearchBar/SearchBar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/backend/borrowbuddy/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/backend/borrowbuddy/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/borrowbuddy/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2h8k5OgVDkM9n42kFyuUEYe8yMI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/milanalukasiuk/Desktop/PK/SEMESTR6/BORROW",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe8e34c8-8aca-4068-b06f-2cc73da5bfbb" name="Changes" comment="" />
+      <created>1716982907678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716982907678</updated>
+      <workItem from="1716982908721" duration="405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
